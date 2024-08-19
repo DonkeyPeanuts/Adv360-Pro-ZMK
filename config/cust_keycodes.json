@@ -1,26 +1,9 @@
 [
 	{
 		"names": [
-			"`"
+			"Backquote"
 		],
-		"description": "`",
-		"clarify": false,
-		"documentation": "",
-		"os": {
-			"windows": true,
-			"linux": true,
-			"android": true,
-			"macos": true,
-			"ios": true
-		},
-		"footnotes": {},
-		"type": "UD"
-	},
-	{
-		"names": [
-			"`"
-		],
-		"description": "`",
+		"description": "Backquote (`) and Tilde (~)",
 		"clarify": false,
 		"documentation": "",
 		"os": {
